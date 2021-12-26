@@ -13,8 +13,10 @@ to explore these strategies. This project includes:
   * Exploratory Data Analysis
   * Data Visualization
 
-#### View the Project here:
+### View the Project here:
 [Brawl_Stars_Data_Analysis](https://github.com/amanjina/Brawl_Stars_Data_Analysis/blob/main/Brawl%20Stars%20Data%20Analysis.ipynb)
+
+Data Extraction Date: December 26, 2021
   
  
 
