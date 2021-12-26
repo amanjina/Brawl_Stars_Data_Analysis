@@ -12,6 +12,9 @@ to explore these strategies. This project includes:
   * Data extraction/cleaning
   * Exploratory Data Analysis
   * Data Visualization
+
+#### View the Project here:
+[Brawl_Stars_Data_Analysis](https://github.com/amanjina/Brawl_Stars_Data_Analysis/blob/main/Brawl%20Stars%20Data%20Analysis.ipynb)
   
  
 
