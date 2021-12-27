@@ -1,4 +1,4 @@
-# Brawl_Stars_Data_Analysis
+# Brawl Stars Data Analysis
 
 ### Background:
 Since it's initial beta launch in 2017, Brawl Stars has maintained it's status as one of the most popular mobile games in recent years.
