@@ -13,6 +13,14 @@ to explore these strategies. This project includes:
   * Exploratory Data Analysis
   * Data Visualization
 
+### Libraries Used:
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+* Plotly
+* BrawlStats
+
 ### View the Project here:
 [Brawl_Stars_Data_Analysis](https://github.com/amanjina/Brawl_Stars_Data_Analysis/blob/main/Brawl%20Stars%20Data%20Analysis.ipynb)
 
