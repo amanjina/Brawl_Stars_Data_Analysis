@@ -27,7 +27,7 @@ to explore these strategies. This project includes:
 *Note: As GitHub only renders Jupyter Notebooks statically, the Plotly graphs in the above file had to be rendered as PNGs. For a rich view of the notebook,
 follow these steps:
 
-  1) Copy [this link](https://github.com/amanjina/Brawl_Stars_Data_Analysis/blob/1c00290c0a21a57d3f376b9067b87d2f428947e1/Brawl%20Stars%20Data%20Analysis%20-%20Interactive%20Plots.ipynb)
+  1) Copy [this link](https://github.com/amanjina/Brawl_Stars_Data_Analysis/blob/22b8d6c56f91a4e00757af108480f6928dddcce3/Brawl%20Stars%20Data%20Analysis%20-%20Interactive%20Plots.ipynb)
   2) Go to http://nbviewer.jupyter.org/ and paste in the link to interact with the graphs
 
 Data Extraction Date: December 26, 2021
