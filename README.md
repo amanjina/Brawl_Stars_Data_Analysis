@@ -12,6 +12,7 @@ to explore these strategies. This project includes:
   * Data extraction/cleaning
   * Exploratory Data Analysis
   * Data Visualization
+  * Linear Regression
 
 ### Libraries Used:
 * NumPy
